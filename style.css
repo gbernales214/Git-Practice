@@ -1,14 +1,14 @@
 table{
+    height: 50%;
     margin-right: auto;
     margin-left: auto;
     border: 7.6px rgb(180, 2, 26);
     background-color: silver;
-    padding: .8%;
     border-radius: 12px;
     border-style: inset;
 }
 table:hover{
-    background-color: rgb(245, 16, 8);
+    background-color: rgb(104, 90, 90);
     }
 td{
     text-align: center;
@@ -24,6 +24,10 @@ button{
     border-radius: 20%;
     cursor: pointer;
     transition: linear;
+}
+img{
+    width: 25%;
+    
 }
 #display{
     text-align: right;
